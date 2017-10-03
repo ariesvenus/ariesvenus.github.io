@@ -350,11 +350,3 @@ footer {
   border: 1px solid #0085A1;
   background-color: #0085A1; }
 
-.small {
-    max-width: 100px;
-    margin: 15px auto;
-    border-width: 4px;
-    border-color: #fff;
-}
-.small, small {
-    font-size: 85%;
