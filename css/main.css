@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-images:images/home/bg_utama;
+  background: #ff0000;
   position: relative;
   font-weight:400px;
 }
