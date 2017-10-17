@@ -1,4 +1,4 @@
-<b:if cond='data:blog.url == &quot;/sitemap&quot;'>
+<b:if cond='data:blog.url == &quot;/index&quot;'>
 <style type='text/css'>
 #table-outer{padding:7px 10px;margin:0 auto}
 #table-outer table{width:auto;margin:0 auto;border:none!important;}
